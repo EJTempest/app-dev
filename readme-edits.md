@@ -11,3 +11,4 @@ My first repository
 6. **Hakuro** - One of the 4 follower of Benimaru in the past and also named by Rimuru.
 7. **Souei** - Also one of the 4 follower of Benimaru in the past and also named by Rimuru.
 8. **Kurobe** - Also one of the 4 follower of Benimaru that is a blacksmith in the past and also named by Rimuru.
+9. **Gobta** -  The goblin that named by Rimuru.
